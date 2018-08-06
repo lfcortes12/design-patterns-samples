@@ -1,4 +1,4 @@
-package com.lc.pattern.sample1;
+package com.lc.pattern.strategy;
 
 public interface QuackBehavior {
    void quack();

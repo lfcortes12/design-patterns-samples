@@ -1,4 +1,4 @@
-package com.lc.pattern.sample1;
+package com.lc.pattern.strategy;
 
 public class MallardDuck extends Duck {
 
